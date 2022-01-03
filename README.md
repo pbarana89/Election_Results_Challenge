@@ -20,6 +20,7 @@ The purpose of this request was to help the Colorado Election Commission verify 
    * Charles Casper Stockham: 23.0% (85,213)
    * Diana DeGette: 73.8% (272,892)
    * Raymon Anthony Doane: 3.1% (11,606)
+
 ![](https://github.com/pbarana89/Election_Results_Challenge/blob/main/Resources/Candidate_Results.PNG)
 
 * Congratulations to Diana DeGette who won in a landslide with 272,892 and 73.8% of the vote!
