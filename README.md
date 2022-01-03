@@ -27,3 +27,5 @@ The purpose of this request was to help the Colorado Election Commission verify 
 
 ![](https://github.com/pbarana89/Election_Results_Challenge/blob/main/Resources/Winning_Candidate.PNG)
 
+### Further Election Use
+This could be a wonderful tool that we could adapt to your many state elections as well. We could modify this code to help run a Senate or Gubernatorial race and we could also use it to provide more information to your committee. We could also use this code to dtermine how Proposition Votes went in the different counties and if we were given more information about votes such as zip code or candidate party we could modify the code to show in greater detail on Colorado voting trends. This would allow you to further see information that would allow you to make recommendations for any kind of redistricting or notice any outliers that could be investigated further.
