@@ -11,11 +11,18 @@ The purpose of this request was to help the Colorado Election Commission verify 
 * Here were the votes according to precinct and their percentage relative to the vote total.
    * Jefferson : 10.5% (38,855)
    * Denver : 82.8% (306,055)
-   * ![Arapahoe : 6.7% (24,801)](https://github.com/pbarana89/Election_Results_Challenge/blob/main/Resources/County_Votes.PNG)
+   * Arapahoe : 6.7% (24,801)
+
+![](https://github.com/pbarana89/Election_Results_Challenge/blob/main/Resources/County_Votes.PNG)
+
 * Denver as the largest population center also held the largest number of votes in the election with 306,055.
 * Here were the votes according to candidate and their percentage relative to the vote total.
    * Charles Casper Stockham: 23.0% (85,213)
    * Diana DeGette: 73.8% (272,892)
-   * ![Raymon Anthony Doane: 3.1% (11,606)](https://github.com/pbarana89/Election_Results_Challenge/blob/main/Resources/Candidate_Results.PNG)
-* Congratulations to Diana DeGette who won in a landslide with 272,892 and 73.8% of the ![vote!](https://github.com/pbarana89/Election_Results_Challenge/blob/main/Resources/Winning_Candidate.PNG)
+   * Raymon Anthony Doane: 3.1% (11,606)
+![](https://github.com/pbarana89/Election_Results_Challenge/blob/main/Resources/Candidate_Results.PNG)
+
+* Congratulations to Diana DeGette who won in a landslide with 272,892 and 73.8% of the vote!
+
+![](https://github.com/pbarana89/Election_Results_Challenge/blob/main/Resources/Winning_Candidate.PNG)
 
