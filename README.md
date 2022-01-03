@@ -5,7 +5,9 @@ The purpose of this request was to help the Colorado Election Commission verify 
 
 ### Election Audit Results
 * There were a total of 369,711 votes in the election
+
 ![](https://github.com/pbarana89/Election_Results_Challenge/blob/main/Resources/Total_Votes.PNG)
+
 * Here were the votes according to precinct and their percentage relative to the vote total.
    * Jefferson : 10.5% (38,855)
    * Denver : 82.8% (306,055)
